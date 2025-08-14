@@ -1,0 +1,8 @@
+{
+    "name": "Semantic",
+    "description": "Validate the pull request title.",
+    "iconName": "octicon verified",
+    "categories": [
+        "Automation"
+    ]
+}
