@@ -26,7 +26,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  stale:
+  check-issues-and-PRs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/stale@v9
