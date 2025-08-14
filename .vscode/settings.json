@@ -1,0 +1,21 @@
+{
+    // EDITOR & FILES
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": true,
+    "editor.snippetSuggestions": "top",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit"
+    },
+    // JSON
+    "[json][jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features",
+    },
+    // MARKDOWN
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    // YAML
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml",
+    },
+}
