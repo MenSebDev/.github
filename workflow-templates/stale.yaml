@@ -1,5 +1,5 @@
 ---
-# https://github.com/MenSebDev/.github/tree/main/workflows/stale.yaml
+# https://github.com/MenSebDev/.github/tree/main/.github/workflows/stale.yaml
 # Close stale issues and pull requests.
 
 name: Stale
@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   call:
-    uses: MenSebDev/.github/workflows/stale.yaml@main
+    uses: MenSebDev/.github/.github/workflows/stale.yaml@main
     with:
       days-before-stale: 30
       days-before-close: 7
