@@ -15,7 +15,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  call:
+  check-issues-and-PRs:
     uses: MenSebDev/.github/.github/workflows/stale.yaml@main
     with:
       days-before-stale: 30
