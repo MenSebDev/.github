@@ -3,6 +3,6 @@
     "description": "Close stale issues and pull-requests.",
     "iconName": "octicon clock",
     "categories": [
-        "utilities"
+        "Automation"
     ]
 }
