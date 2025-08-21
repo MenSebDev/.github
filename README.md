@@ -20,6 +20,8 @@
 
 ## Health Files
 
+For more information, visit: [about default community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
+
 Here is the list of health files for the organization's repositories.
 
 - [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
