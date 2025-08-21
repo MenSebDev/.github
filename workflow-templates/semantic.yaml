@@ -13,4 +13,5 @@ permissions:
 
 jobs:
   check-title-PR:
+    if: github.event.action != 'edited' || github.event.changes.title
     uses: MenSebDev/.github/.github/workflows/semantic.yaml@main
