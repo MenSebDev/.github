@@ -1,3 +1,8 @@
+---
+name: General Template
+about: A general-purpose issue template
+---
+
 <!--
 📌 Issue Title Reminder
 
